@@ -1,0 +1,13 @@
+body {
+    background-color:bisque;
+    text-align: center;
+}
+
+h1, h3{
+    text-align: center;
+}
+
+ul{
+    display: inline-block;
+    text-align: left;
+}
